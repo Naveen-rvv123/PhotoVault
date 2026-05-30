@@ -1,10 +1,10 @@
-package com.photovault.photovault;
+package com.triply.triply;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PhotovaultApplicationTests {
+class TriplyApplicationTests {
 
 	@Test
 	void contextLoads() {
