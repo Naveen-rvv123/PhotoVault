@@ -1,13 +1,13 @@
-package com.photovault.photovault;
+package com.triply.triply;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PhotovaultApplication {
+public class TriplyApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PhotovaultApplication.class, args);
+		SpringApplication.run(TriplyApplication.class, args);
 	}
 
 }

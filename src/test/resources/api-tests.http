@@ -1,0 +1,20 @@
+### Signup
+POST http://localhost:8080/api/auth/signup
+Content-Type: application/json
+
+{
+  "email": "naveen@triply.com",
+  "name": "Naveen",
+  "password": "password123"
+}
+
+###
+
+### Login
+POST http://localhost:8080/api/auth/login
+Content-Type: application/json
+
+{
+  "email": "naveen@triply.com",
+  "password": "password123"
+}
